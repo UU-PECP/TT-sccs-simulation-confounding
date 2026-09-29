@@ -1,0 +1,42 @@
+# Decision-Log.md
+
+This document serves as the official register of all final decisions for each issue discussion.
+Each entry links to the corresponding GitHub Issue for full discussion and traceability.
+
+---
+## Template for decision log
+
+### Decision ID: STUDY-ACRONYM-00X
+
+- **GitHub Issue:** [#XX](URL)
+- **Date Identified:** YYYY-MM-DD
+- **Date Decided:** YYYY-MM-DD
+- **Decision Owner:** ADD THOSE WHO DISCUSSED
+
+#### Issue Summary
+
+Short description of the overall issue.
+
+#### Final Decision
+
+Clear and concise statement of the agreed approach.
+
+#### Rationale
+
+Brief explanation of why this option was selected.
+
+
+## Version Control
+
+This file is updated only after:
+
+1. A final decision has been made by the study team.
+2. The decision has been communicated to everyone.
+3. The corresponding GitHub Issue has been updated and closed.
+
+
+---
+## Decision Log
+
+---
+
