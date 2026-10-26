@@ -88,7 +88,7 @@ This project uses no real-world patient data. All data are simulated with parame
 
 ## Data Access
 
-The scripts to generate the data and the can be accessed on [Github](add_github_link)
+The scripts to generate the data and the can be accessed on [Github](https://github.com/UU-PECP/TT-sccs-simulation-confounding.git)
 
 
 ## Manuscript
